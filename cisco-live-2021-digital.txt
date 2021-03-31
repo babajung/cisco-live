@@ -1,0 +1,50 @@
+3 Future Trends for Your Small Business - PSOSMB-1008	 | 	https://www.ciscolive.com/c/dam/r/ciscolive/us/docs/2021/pdf/PSOSMB-1008.pdf
+A Better Way to Manage Your Cisco Lifecycle - PTR-1705	 | 	https://www.ciscolive.com/c/dam/r/ciscolive/us/docs/2021/pdf/PTR-1705.pdf
+A Better Way to Navigate Complex IT Transitions  - PSOCX-1004	 | 	https://www.ciscolive.com/c/dam/r/ciscolive/us/docs/2021/pdf/PSOCX-1004.pdf
+ Achieve Simplicity, Visibility, and Efficiency with an Integrated Security Platform  - PSOSEC-2004	 | 	https://www.ciscolive.com/c/dam/r/ciscolive/us/docs/2021/pdf/PSOSEC-2004.pdf
+Advochat On-The-Go: chatting about the workplace of the future - CSSMER-1010	 | 	https://www.ciscolive.com/c/dam/r/ciscolive/us/docs/2021/pdf/CSSMER-1010.pdf
+Advochat On-The-Go: Chatting About Working and Collaborating Remotely - CSSCOL-2080	 | 	https://www.ciscolive.com/c/dam/r/ciscolive/us/docs/2021/pdf/CSSCOL-2080.pdf
+A License to Design – the Cisco Certified Design Expert Certification - PSOCRT-1010	 | 	https://www.ciscolive.com/c/dam/r/ciscolive/us/docs/2021/pdf/PSOCRT-1010.pdf
+Ask the Experts: Your Licensing Questions Answered - PSOGEN-1027	 | 	https://www.ciscolive.com/c/dam/r/ciscolive/us/docs/2021/pdf/PSOGEN-1027.pdf
+Automate Retail IT with Next-Generation Digital Tags - PSOMER-1103	 | 	https://www.ciscolive.com/c/dam/r/ciscolive/us/docs/2021/pdf/PSOMER-1103.pdf
+AWS, Azure or GCP? Examining Key Differences in Connectivity Architectures - PSOCLD-2104	 | 	https://www.ciscolive.com/c/dam/r/ciscolive/us/docs/2021/pdf/PSOCLD-2104.pdf
+Build a Kubernetes Environment in a Few Clicks with IKS - PSOCLD-1004	 | 	https://www.ciscolive.com/c/dam/r/ciscolive/us/docs/2021/pdf/PSOCLD-1004.pdf
+Build Your Network for the Cloud Edge with the Catalyst 8000 Edge Platforms Family - PSOENT-2000	 | 	https://www.ciscolive.com/c/dam/r/ciscolive/us/docs/2021/pdf/PSOENT-2000.pdf
+Cisco and Radware Global OEM Partnership, providing Better Protection to Clients   - PTR-1772	 | 	https://www.ciscolive.com/c/dam/r/ciscolive/us/docs/2021/pdf/PTR-1772.pdf
+Cisco Cloud Experience - Delivering the Experience You Desire - PSOCLD-2100	 | 	https://www.ciscolive.com/c/dam/r/ciscolive/us/docs/2021/pdf/PSOCLD-2100.pdf
+Cisco Nexus Dashboard: Simplicity, Visibility and Scale with&nbsp;Multicloud&nbsp;Operations - PSODCN-1001	 | 	https://www.ciscolive.com/c/dam/r/ciscolive/us/docs/2021/pdf/PSODCN-1001.pdf
+Cisco Secure Email Cloud Gateway. There's Nothing Legacy About This - PSOSEC-1013	 | 	https://www.ciscolive.com/c/dam/r/ciscolive/us/docs/2021/pdf/PSOSEC-1013.pdf
+Cisco Secure Endpoint: Expect More From Your Endpoint Security - PSOSEC-1014	 | 	https://www.ciscolive.com/c/dam/r/ciscolive/us/docs/2021/pdf/PSOSEC-1014.pdf
+Cisco's Private 5G for Enterprise Networks  - PSOSPG-2000	 | 	https://www.ciscolive.com/c/dam/r/ciscolive/us/docs/2021/pdf/PSOSPG-2000.pdf
+Cisco Umbrella Extends the Scope of SASE Security with New Features - PSOSEC-1017	 | 	https://www.ciscolive.com/c/dam/r/ciscolive/us/docs/2021/pdf/PSOSEC-1017.pdf
+Citrix Workspace and Cisco Duo–Safeguarding your digital workspace with secure access for all users - PTR-1717	 | 	https://www.ciscolive.com/c/dam/r/ciscolive/us/docs/2021/pdf/PTR-1717.pdf
+Cloud Adoption Enables Organizations to Succeed in the Digital Future - PTR-1703	 | 	https://www.ciscolive.com/c/dam/r/ciscolive/us/docs/2021/pdf/PTR-1703.pdf
+Comprehensive Visibility into all your data in motion: Hybrid-cloud to 5G Core - PTR-1693	 | 	https://www.ciscolive.com/c/dam/r/ciscolive/us/docs/2021/pdf/PTR-1693.pdf
+Connected North brings virtual learning experiences to classrooms in remote Indigenous communities - PTR-1752	 | 	https://www.ciscolive.com/c/dam/r/ciscolive/us/docs/2021/pdf/PTR-1752.pdf
+Conquering the Next Normal: Monitoring Techniques to Keep Up With the Pace of Change in 2021 - PTR-1720	 | 	https://www.ciscolive.com/c/dam/r/ciscolive/us/docs/2021/pdf/PTR-1720.pdf
+Consistent Infrastructure and Operations: VMware Cloud Foundation deploys any workload in any cloud - PTR-1713	 | 	https://www.ciscolive.com/c/dam/r/ciscolive/us/docs/2021/pdf/PTR-1713.pdf
+Converged Business Outcomes for your Cisco Data Center (VxBlock and Beyond) ​ - PTR-2687	 | 	https://www.ciscolive.com/c/dam/r/ciscolive/us/docs/2021/pdf/PTR-2687.pdf
+Cost Optimization through SMARTnet and EAs with SHI - PTR-1706	 | 	https://www.ciscolive.com/c/dam/r/ciscolive/us/docs/2021/pdf/PTR-1706.pdf
+Customer Interview with AUCLOUD​  Learn why AUCLOUD chose Cisco &amp; Veeam​ - PTR-1700	 | 	https://www.ciscolive.com/c/dam/r/ciscolive/us/docs/2021/pdf/PTR-1700.pdf
+CX Automation: A Guide to Greater Speed and Agility for Your Automation Journey - PSOCX-1005	 | 	https://www.ciscolive.com/c/dam/r/ciscolive/us/docs/2021/pdf/PSOCX-1005.pdf
+Deliver Flawless Application Experiences with Correlated Visibility Across Application, Internet, and Cloud from AppDynamics and ThousandEyes - PSOAPP-1001	 | 	https://www.ciscolive.com/c/dam/r/ciscolive/us/docs/2021/pdf/PSOAPP-1001.pdf
+Deliver High-Performance ITOps with Cisco Nexus Insights - PSODCN-1004	 | 	https://www.ciscolive.com/c/dam/r/ciscolive/us/docs/2021/pdf/PSODCN-1004.pdf
+Delivering Sustainable Growth in our Hyperconnected Digital Economy - PTR-1770	 | 	https://www.ciscolive.com/c/dam/r/ciscolive/us/docs/2021/pdf/PTR-1770.pdf
+Differentiating with NIST Standards and Compliance in a Zero Trust World - PSOIND-1003	 | 	https://www.ciscolive.com/c/dam/r/ciscolive/us/docs/2021/pdf/PSOIND-1003.pdf
+Digital transformation, how Verizon's 5G &amp; MEC are changing the landscape of the way you do business - PTR-1750	 | 	https://www.ciscolive.com/c/dam/r/ciscolive/us/docs/2021/pdf/PTR-1750.pdf
+Driving Key Architecture Transitions within Service Provider Networks - PSOSPG-1001	 | 	https://www.ciscolive.com/c/dam/r/ciscolive/us/docs/2021/pdf/PSOSPG-1001.pdf
+Driving your Cisco Multi-Domain Intent-Based Network Using Infrastructure as Code - PSODCN-1002	 | 	https://www.ciscolive.com/c/dam/r/ciscolive/us/docs/2021/pdf/PSODCN-1002.pdf
+Empowered Operations: Accelerating Digitization at the Industrial Edge - PSOIOT-1001	 | 	https://www.ciscolive.com/c/dam/r/ciscolive/us/docs/2021/pdf/PSOIOT-1001.pdf
+Empowering Multinationals for Digital Transformation - PTR-1726	 | 	https://www.ciscolive.com/c/dam/r/ciscolive/us/docs/2021/pdf/PTR-1726.pdf
+Empower Your Teams to Swiftly Solve IT Challenges - PSOCX-1001	 | 	https://www.ciscolive.com/c/dam/r/ciscolive/us/docs/2021/pdf/PSOCX-1001.pdf
+Enabling Customer Success with Cloud-Based Managed Collaboration - PTR-1733	 | 	https://www.ciscolive.com/c/dam/r/ciscolive/us/docs/2021/pdf/PTR-1733.pdf
+ENGIE’s Cloud First Strategy with Cisco &amp; AWS Leads to Improved Performance &amp; Increased Visibility - PTR-1689	 | 	https://www.ciscolive.com/c/dam/r/ciscolive/us/docs/2021/pdf/PTR-1689.pdf
+Enhance Your FlexPod Management Experience with Cisco Intersight - PTR-2725	 | 	https://www.ciscolive.com/c/dam/r/ciscolive/us/docs/2021/pdf/PTR-2725.pdf
+Evolving cloud and managed collaboration experience with Webex Edge and UCM Cloud - PSOCOL-1101	 | 	https://www.ciscolive.com/c/dam/r/ciscolive/us/docs/2021/pdf/PSOCOL-1101.pdf
+Extending Zero Trust for the Workplace to Industrial IoT - PSOIOT-1002	 | 	https://www.ciscolive.com/c/dam/r/ciscolive/us/docs/2021/pdf/PSOIOT-1002.pdf
+Financial Services Customer Journey Orchestration in a Digital World - PSOIND-1000	 | 	https://www.ciscolive.com/c/dam/r/ciscolive/us/docs/2021/pdf/PSOIND-1000.pdf
+FlashStack® Simplifies Scaling Operations and Data Services to the Cloud - PTR-2670	 | 	https://www.ciscolive.com/c/dam/r/ciscolive/us/docs/2021/pdf/PTR-2670.pdf
+Get Rid of that ‘Bone Pile’ and Advance the Circular Economy: Programs to Take back, Re-use, Recycle - PSOGEN-1787	 | 	https://www.ciscolive.com/c/dam/r/ciscolive/us/docs/2021/pdf/PSOGEN-1787.pdf
+Global aerospace corporation embraces modern data center and SD-WAN architecture - PTR-1698	 | 	https://www.ciscolive.com/c/dam/r/ciscolive/us/docs/2021/pdf/PTR-1698.pdf
+Hear how we can help you get ready for a new way of working. - PTR-1716	 | 	https://www.ciscolive.com/c/dam/r/ciscolive/us/docs/2021/pdf/PTR-1716.pdf
+How Cisco Enables Secure, High Performance Networking with a Unique SASE Approach - PSOSEC-1015	 | 	https://www.ciscolive.com/c/dam/r/ciscolive/us/docs/2021/pdf/PSOSEC-1015.pdf
