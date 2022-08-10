@@ -122,7 +122,6 @@
 |Cisco Catalyst Wi-Fi 6/6E Powered by AI-Driven Wireless Assurance - BRKEWN-2029|https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2022/pdf/BRKEWN-2029.pdf|
 |Cisco Catalyst Wi-Fi, Understanding Catalyst Wi-Fi 6/6E and Beyond - BRKEWN-3005|https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2022/pdf/BRKEWN-3005.pdf|
 |Cisco Connected Justice Virtual Visitation Solution (VVS) and Offender Reservation Platform - BRKXAR-1010|https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2022/pdf/BRKXAR-1010.pdf|
-|<div class="title-text">|https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2022/pdf/ <div class="title-text">.pdf|
 |Cisco DNA Center Integrations with 3rd Party Platforms - BRKDEV-2637|https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2022/pdf/BRKDEV-2637.pdf|
 |Cisco Full Stack Observability - a User Perspective  (Part II of II) - BRKOPS-2260|https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2022/pdf/BRKOPS-2260.pdf|
 |Cisco Full Stack Observability - Solving Problems End-to-End  (Part I of II) - BRKOPS-2259|https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2022/pdf/BRKOPS-2259.pdf|
@@ -173,8 +172,7 @@
 |Complete Observability For Your Cloud Applications - PSOAPP-1005|https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2022/pdf/PSOAPP-1005.pdf|
 |Connect a Hybrid Cloud in 3 Clicks with Cisco Meraki MX - BRKMER-2002|https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2022/pdf/BRKMER-2002.pdf|
 |Connect and Secure with Meraki - BRKMER-1003|https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2022/pdf/BRKMER-1003.pdf|
-|<div class="title-text">|https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2022/pdf/ <div class="title-text">.pdf|
-|. connect – Discover the power of the Secure Connectivity as a Service Platform - CNCNWT-1004|https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2022/pdf/CNCNWT-1004.pdf|
+|Connect – Discover the power of the Secure Connectivity as a Service Platform - CNCNWT-1004|https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2022/pdf/CNCNWT-1004.pdf|
 |Connected Factory Architecture  - BRKIOT-2720|https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2022/pdf/BRKIOT-2720.pdf|
 |"Connect the dots" of NIST 800-207, TIC 3.0, and More Using Cisco SAFE Reference Architecture - BRKSEC-1013|https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2022/pdf/BRKSEC-1013.pdf|
 |Connect Webex devices to more meetings - VILCOL-2008|https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2022/pdf/VILCOL-2008.pdf|
@@ -452,7 +450,6 @@
 |Leveraging Cisco Security APIs for Threat Hunting Based on Automated Alerting and Intel-Driven Detections - BRKDEV-2015|https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2022/pdf/BRKDEV-2015.pdf|
 |Leveraging Machine Learning to Better Prioritize XDR Incidents - PSOSEC-2012|https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2022/pdf/PSOSEC-2012.pdf|
 |Leveraging Visibility to drive Zero Trust for Industrial Security - BRKIOT-2353|https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2022/pdf/BRKIOT-2353.pdf|
-|<div class="title-text">|https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2022/pdf/ <div class="title-text">.pdf|
 |Local Gateway Design and Deployment for Webex Calling - BRKCOL-2169|https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2022/pdf/BRKCOL-2169.pdf|
 |Low Earth Orbit Satellites � Changing the Game in Remote Connectivity, and How It Affects You!  - BRKNWT-2204|https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2022/pdf/BRKNWT-2204.pdf|
 |Making Cisco Secure Firewall Threat Defense Policy Dynamic with Attribute Based Policy  - BRKSEC-2127|https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2022/pdf/BRKSEC-2127.pdf|
@@ -471,9 +468,8 @@
 |Meraki 202 - Programmatic Action: Simplicity at Scale - DEVNET-2177|https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2022/pdf/DEVNET-2177.pdf|
 |Meraki Cameras and Sensors: Video-Centric IoT to Automate Operations and Improve Experiences - BRKMER-1006|https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2022/pdf/BRKMER-1006.pdf|
 |Meraki &amp; Secure Network and Cloud Analytics: Threat Detection for the Rest of Us - BRKMER-2003|https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2022/pdf/BRKMER-2003.pdf|
-|<div class="title-text">Merging the Lines of Communication for Better Clarity – Lumen and T-Mobile - CNCCOL-1003|https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2022/pdf/CNCCOL-1003.pdf|
+|Merging the Lines of Communication for Better Clarity – Lumen and T-Mobile - CNCCOL-1003|https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2022/pdf/CNCCOL-1003.pdf|
 |Methodology into Enterprise Architecture: From Conception to Action and Why it isn't so different from the Big Dig - BRKARC-2038|https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2022/pdf/BRKARC-2038.pdf|
-|<div class="title-text">|https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2022/pdf/ <div class="title-text">.pdf|
 |Migrating Classical Enterprise Campus Networks to VXLAN EVPN Based Networks - Part 2 - BRKENS-3096b|https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2022/pdf/BRKENS-3096b.pdf|
 |Migrating Classical Enterprise Campus Networks to VXLAN EVPN Based Networks - Part 1 - BRKENS-3096a|https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2022/pdf/BRKENS-3096a.pdf|
 |Migrating the Premise Contact Center to the Cloud - BRKCCT-1013|https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2022/pdf/BRKCCT-1013.pdf|
@@ -622,7 +618,6 @@
 |Simplified Network Fabric deployment using RFC5549 - Network Designs for the modern Data Center - BRKDCN-2828|https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2022/pdf/BRKDCN-2828.pdf|
 |Simplify ACI Operations with Nexus Dashboard Insights - BRKDCN-2771|https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2022/pdf/BRKDCN-2771.pdf|
 |Simplify and Accelerate with the Latest HyperFlex Solutions - PSODCN-2351|https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2022/pdf/PSODCN-2351.pdf|
-|<div class="title-text">|https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2022/pdf/ <div class="title-text">.pdf|
 |Simplify Infrastructure as Code for On Premises Environment using Cisco Intersight and Hashicorp Terraform Cloud - DEVNET-3026|https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2022/pdf/DEVNET-3026.pdf|
 |Simplifying Federated Machine Learning Jobs With Flame in Kubernetes - BRKETI-2001|https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2022/pdf/BRKETI-2001.pdf|
 |Simplifying IT with the New World of FlashStack Solutions - CNCARC-1000|https://www.ciscolive.com/c/dam/r/ciscolive/global-event/docs/2022/pdf/CNCARC-1000.pdf|
