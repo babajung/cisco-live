@@ -1,7 +1,7 @@
 # Cisco Live
-[cisco-live-2020-digital](https://github.com/babajung/cisco-live/blob/master/cisco-live-2020-digital.txt)
+[cisco-live-2020-digital](https://github.com/babajung/cisco-live/blob/master/cisco-live-2020-digital.md)
 
-[cisco-live-2021-digital](https://github.com/babajung/cisco-live/blob/master/cisco-live-2021-digital.txt)
+[cisco-live-2021-digital](https://github.com/babajung/cisco-live/blob/master/cisco-live-2021-digital.md)
 
 [cisco-live-2022-las-vegas](https://github.com/babajung/cisco-live/blob/master/cisco-live-2022-las-vegas.md)
 
