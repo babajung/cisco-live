@@ -1,0 +1,387 @@
+| Title | URL  |
+| ----- | :--: |
+|123 - Enterprise Campus Wired Design Fundamentals - BRKENS-1501 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKENS-1501.pdf|
+|1 to 100: Master All Steps of Deployment, Seamless Integration, and Migration of Large Cisco SD-Access and SD-WAN Networks - BRKENS-3834 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKENS-3834.pdf|
+|3 Cisco Catalyst Center and ITSM Workflows: CMDB, Incident Management and SWIM - BRKOPS-2032 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKOPS-2032.pdf|
+|3 Steps to Gain Actionable Visibility in the Cisco SD-WAN Using ThousandEyes - BRKENT-2126 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKENT-2126.pdf|
+|−40°C Industrial Networking: Where Enterprise Products Fear to Go - BRKIOT-2104 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKIOT-2104.pdf|
+|4 Easy Ways for Network Engineers to Go From an Un-Programmed to an Automated Network  - BRKOPS-2103 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKOPS-2103.pdf|
+|4 Steps to Unify Multicloud Connectivity and Design with Cisco SD-WAN Principles - BRKENT-2283 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKENT-2283.pdf|
+|5 Ways to Impress Your Colleagues with Automation - BRKDEV-1970 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKDEV-1970.pdf|
+|7 Habits for success with Cisco Catalyst Center - BRKOPS-2416 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKOPS-2416.pdf|
+|7 Ways to Fail—on Wi-Fi 6E - BRKEWN-1742 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKEWN-1742.pdf|
+|8 Tips for Deploying Indoor Wireless Mobility with Cisco Industrial Wireless - BRKIOT-2601 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKIOT-2601.pdf|
+|Accelerate your SOC with Cisco XDR - BRKSEC-1023 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKSEC-1023.pdf|
+|Achieving Industry Standards, Frameworks and Architectures Using Duo - BRKSEC-1017 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKSEC-1017.pdf|
+|ACI Layer 4–Layer 7 Policy-Based Redirect (PBR) Deep Dive and Tips - BRKDCN-3982 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKDCN-3982.pdf|
+|ACI Multi-Site Architecture and Deployment - BRKDCN-2980 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKDCN-2980.pdf|
+|ACI Troubleshooting: A Deep Dive into Policy-Based Redirect (PBR) - BRKDCN-3615 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKDCN-3615.pdf|
+|ACI Troubleshooting: Advanced Layer 3 Out Features - BRKDCN-3678 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKDCN-3678.pdf|
+|ACI Troubleshooting: Expand Your Tool Set with Nexus Dashboard Insights - BRKDCN-2626 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKDCN-2626.pdf|
+|Advanced RF Tuning for Wi-Fi 6E with Cisco Catalyst Wireless: Become an Expert While Getting a Little Help from AI - BRKEWN-3413 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKEWN-3413.pdf|
+|Advanced SD-WAN Policies Troubleshooting - BRKENT-3797 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKENT-3797.pdf|
+|Agile Management of Webex Calling - There's an API for that - BRKCOL-3015 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKCOL-3015.pdf|
+|AI in Observability - BRKAPP-2686 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKAPP-2686.pdf|
+|AI vs. Generative AI for Cybersecurity: the reality and the hype - BRKSEC-2294 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKSEC-2294.pdf|
+|All You Need To Know About App Hosting on Catalyst - BRKOPS-2490 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKOPS-2490.pdf|
+|All You Need to Know about Forwarding on the Cisco Catalyst 8000 Platforms - BRKENT-2653 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKENT-2653.pdf|
+|A Network Engineer's Blueprint for ACI Forwarding - BRKDCN-3900 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKDCN-3900.pdf|
+|An Overview of Quantum Network Technologies  - BRKETI-1301 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKETI-1301.pdf|
+|A Platform for Enabling a Marketplace of Applications on Cellular Networks - BRKSPM-2669 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKSPM-2669.pdf|
+|Application Security in the Cloud Native world - BRKSEC-1585 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKSEC-1585.pdf|
+|Applying UCS X-Series Advanced Power and Cooling Management to Your Sustainability Goals and Reporting - BRKDCN-2933 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKDCN-2933.pdf|
+| Architecting Enterprise Security in a Wi-Fi plus Private 5G World - BRKSEC-2085 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKSEC-2085.pdf|
+|Architecting Hybrid Multi-Cloud Infrastructures - BRKDCN-2916 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKDCN-2916.pdf|
+|Architecting Layer 4–Layer 7 Network Services in a Multi-Tenant Data Center with VXLAN EVPN - BRKDCN-2974 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKDCN-2974.pdf|
+|Architecting Next-Generation Wireless Network with Cisco Catalyst Wi-Fi 6E Access Points - BRKEWN-2024 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKEWN-2024.pdf|
+|Architecting Private 5G for Resiliency, Security, and Enterprise Network Convergence - BRKSPM-2042 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKSPM-2042.pdf|
+|A song of ISE and Posture: Advanced deployment and troubleshooting - BRKSEC-3077 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKSEC-3077.pdf|
+|Assessing Software-Defined Access (SDA) for Industrial Automation: Best Practices for a Successful Deployment - BRKIOT-2299 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKIOT-2299.pdf|
+|Authentication, Authorization and Provisioning for Cisco Collaboration  - BRKCOL-2007 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKCOL-2007.pdf|
+|Automate the Deployment of a Wireless Network with the Help of Cisco Catalyst Center  - BRKOPS-2402 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKOPS-2402.pdf|
+|Automate transport service provisioning, optimization and assurance with SDN Controller - BRKOPS-2870 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKOPS-2870.pdf|
+|Automation and In-Depth Troubleshooting of Cisco Catalyst 8000, Cisco ASR 1000, and ISR and SD-WAN Edge - BRKTRS-3475 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKTRS-3475.pdf|
+|Automation and Orchestration Strategies for the Cloud-First Enterprise - BRKCLD-1444 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKCLD-1444.pdf|
+|Automation when the honeymoon is over: A troubleshooting guide to keep the magic alive! - BRKOPS-2867 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKOPS-2867.pdf|
+|Beginner's Guide to Enterprise Network Monitoring with ThousandEyes - BRKENT-1656 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKENT-1656.pdf|
+|Best Practice for Prime to Cisco Catalyst Center migration  - BRKOPS-2540 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKOPS-2540.pdf|
+|Best Practice of Virtual Port Channel in VXLAN - BRKDCN-2912 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKDCN-2912.pdf|
+|Best Practices for a Successful Migration from Jabber to the Webex App - BRKCOL-2062 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKCOL-2062.pdf|
+|Beyond Red and Blue: Exploring the World of Purple Teaming - BRKSEC-2886 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKSEC-2886.pdf|
+|BGP EVPN in Enterprise Campus with Cisco Catalyst 9000 Switches - BRKENS-2092 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKENS-2092.pdf|
+|Blueprint for the journey towards Cisco FSO - BRKAPP-2489 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKAPP-2489.pdf|
+|Bringing Network Assurance to API Monitoring - BRKAPP-2687 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKAPP-2687.pdf|
+|Building and Maintaining Trust in Service Provider Networks - BRKSPG-2868 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKSPG-2868.pdf|
+|Building Transport-Grade Packet-Based Networks with Routed Optical Networking - BRKOPT-2016 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKOPT-2016.pdf|
+|Building Zero-Trust Campus Networks with BGP EVPN on Cisco Catalyst 9000 Switches - BRKENS-2830 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKENS-2830.pdf|
+|Business Risk Observability for traditional and modern applications - BRKAPP-2005 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKAPP-2005.pdf|
+|Calling Interoperability with Microsoft Teams - BRKCOL-2067 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKCOL-2067.pdf|
+|Can We Develop Faster with ChatGPT, CoPilot, and Co? - BRKETI-2397 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKETI-2397.pdf|
+|Catalyst 9000 Series Switching Family—Access - BRKARC-2098 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKARC-2098.pdf|
+|Catalyst 9000 SiliconOne and IOS XE Architecture and Innovation - BRKARC-2092 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKARC-2092.pdf|
+|Catalyst 9000 Switching Family Core and Distribution - BRKARC-2099 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKARC-2099.pdf|
+|Catalyst-Powered Smart Buildings—Beyond PoE Connectivity - BRKENS-2091 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKENS-2091.pdf|
+|Catalytic Converter Theft - Or what happens when you focus on just the #1 Threat - BRKSEC-2514 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKSEC-2514.pdf|
+|Cisco 8000 Technical Update: Powered by Silicon One and IOS XR  - BRKSPG-2944 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKSPG-2944.pdf|
+|Cisco ACI Multi-Pod Design and Deployment - BRKDCN-2949 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKDCN-2949.pdf|
+|Cisco ACI: The Foundation of an Internal Private Cloud - BRKDCN-2984 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKDCN-2984.pdf|
+|Cisco AIOps – Design, Deployment and Cisco on Cisco story - BRKAPP-2675 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKAPP-2675.pdf|
+|Cisco AppDynamics and SAP Best Practices - BRKAPP-2075 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKAPP-2075.pdf|
+|Cisco Catalyst 8500 Series Edge Platform Deep Dive - BRKARC-2885 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKARC-2885.pdf|
+|Cisco Catalyst 9000 Lifecycle Security: Safeguarding Your Network - BRKENS-2163 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKENS-2163.pdf|
+|Cisco Catalyst 9800 Configuration Best Practices - BRKEWN-2339 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKEWN-2339.pdf|
+|Cisco Catalyst Wireless Supercharged by Cisco Catalyst Center (Formerly Cisco DNA Center): The Ultimate Guide to Bring Your Wireless Operation to the Next Level - BRKEWN-2667 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKEWN-2667.pdf|
+|Cisco HCI Solution 101 in 60 Minutes - BRKDCN-1669 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKDCN-1669.pdf|
+|Cisco Intent-Based Cross and Multidomain Integrations for SDA and SD-WAN - BRKXAR-2001 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKXAR-2001.pdf|
+|Cisco IP Phones, headsets, and webcams: The product updates that we all need to know - BRKCOL-2068 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKCOL-2068.pdf|
+|Cisco ISE Performance, Scalability and Best Practices - BRKSEC-2234 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKSEC-2234.pdf|
+|CiscoLive:  Brought To You By Cisco NSO and Cisco Modeling Labs - BRKOPS-2040 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKOPS-2040.pdf|
+|Cisco Meraki: Enabling Infrastructure as Code - BRKMER-2663 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKMER-2663.pdf|
+|Cisco Nexus 9000 Architecture - BRKDCN-3939 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKDCN-3939.pdf|
+|Cisco SD-Access and Multi-Domain Segmentation - BRKENS-2819 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKENS-2819.pdf|
+|Cisco SD-Access Best Practices—Design and Deployment - BRKENS-2502 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKENS-2502.pdf|
+|Cisco SD-Access for Manufacturing Verticals - BRKENS-2821 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKENS-2821.pdf|
+|Cisco SD-Access for the Sustainable Enterprise - BRKENS-2818 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKENS-2818.pdf|
+|Cisco SD-Access Migration Tools and Strategies - BRKENS-2827 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKENS-2827.pdf|
+|Cisco SD-Access Solution Fundamentals - BRKENS-2810 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKENS-2810.pdf|
+|Cisco SD-Access Transit: Advanced Design Principles - BRKENS-2816 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKENS-2816.pdf|
+|Cisco SD-WAN for Modern Workloads - BRKCLD-1245 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKCLD-1245.pdf|
+|Cisco SD-WAN: Hidden Complexity Revealed—How Cisco TAC Addresses Really Tricky Problems - BRKTRS-3050 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKTRS-3050.pdf|
+|Cisco SD-WAN: Start Here - BRKENT-2108 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKENT-2108.pdf|
+|Cisco Secure Access – Cisco´s latest SSE innovation - BRKSEC-1586 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKSEC-1586.pdf|
+|Cisco Secure Access: stepping behind the curtain - BRKSEC-2438 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKSEC-2438.pdf|
+|Cisco+ Secure Connect - Connect and Secure with Meraki  - BRKMER-1003 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKMER-1003.pdf|
+|Cisco Secure Edge Protection—Protecting the 5G Edge against DDoS Attacks - BRKSPG-2401 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKSPG-2401.pdf|
+|Cisco Spaces: How to Turn Your Wi-Fi Network into Location-Based Intelligence - BRKEWN-2042 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKEWN-2042.pdf|
+|Cisco's Unified Agent: Cisco Secure Client. Bringing AMP, AnyConnect, Orbital & Umbrella together - BRKSEC-2834 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKSEC-2834.pdf|
+|Cisco UCS 5th Generation Virtual Interface Card (VIC)—Unveiling the Latest Cutting-Edge Feature Set and Performance Advancements - BRKDCN-2669 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKDCN-2669.pdf|
+|Cisco Validated Blueprint Architecture for Building 5G Networks across DC and Transport - BRKSP-2189 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKSP-2189.pdf|
+|Cisco Video Devices for Microsoft Teams: Zero to fully deployed in 60 minutes (Live demo!)  - BRKCOL-2185 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKCOL-2185.pdf|
+|Cisco Video Endpoints Update - BRKCOL-2390 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKCOL-2390.pdf|
+|Cisco Wireless AIOps - BRKEWN-2029 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKEWN-2029.pdf|
+|Cisco XDR - Making sense of the Solution and how it's a Security Productivity Tool - BRKSEC-2113 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKSEC-2113.pdf|
+|Cloud-Ready Converged SDN Transport - BRKSPG-2315 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKSPG-2315.pdf|
+|Collaboration AI: From Supervised to Generative - BRKCOL-1661 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKCOL-1661.pdf|
+|Connected Factory Architecture  - BRKIOT-2720 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKIOT-2720.pdf|
+|Connecting and Securing Renewable Energy - Enabling Green Technologies with Cisco IoT - BRKIOT-1203 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKIOT-1203.pdf|
+|Connecting Cisco SD-Access to the World: Use Cases and Segmentation - BRKENS-2811 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKENS-2811.pdf|
+|Connecting moving assets with Cisco IoT Solutions  - BRKIOT-1126 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKIOT-1126.pdf|
+|Considerations on Data Center Sustainability - BRKDCN-2625 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKDCN-2625.pdf|
+|Converging 5G Transport and Telco Data Center Architectures - BRKSP-2170 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKSP-2170.pdf|
+|Crafting a Business-Relevant Mindset: Connecting Your Work to Business Value - BRKARC-2036 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKARC-2036.pdf|
+|Creative and unusual use case ideas for industrial networking devices. - BRKIOT-2808 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKIOT-2808.pdf|
+|CUBE v14 Updates - BRKCOL-2314 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKCOL-2314.pdf|
+|Customer Case Studies: Lessons Learned from Cisco’s SD-WAN Design Council - BRKENT-2660 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKENT-2660.pdf|
+|Custom Workflows for the Cisco Catalyst Center Integration with ServiceNow - BRKOPS-2471 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKOPS-2471.pdf|
+|Cybersecurity Awareness for Our Critical Infrastructure Water Customers - BRKIOT-2368 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKIOT-2368.pdf|
+|Data Center Network Design for Media and Entertainment Industry - BRKDCN-2924 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKDCN-2924.pdf|
+|Datacenter Operations Maintenance and Migration Best Practices - BRKDCN-2958 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKDCN-2958.pdf|
+|Defense in Depth Security for Multicloud Data Centers - BRKDCN-3930 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKDCN-3930.pdf|
+|Demystifying IP Multicast in SD-Access - BRKENS-2820 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKENS-2820.pdf|
+|Demystify NCS5500/NCS5700 Resources for Effective Network Design and Operations - BRKSPG-2397 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKSPG-2397.pdf|
+|Deploy Cisco Catalyst Wireless as an Infrastructure as a Service (IaaS) with AWS - BRKEWN-1104 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKEWN-1104.pdf|
+|Deploying IPv6 Routing Protocols: Specifics and Considerations - BRKIPV-2418 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKIPV-2418.pdf|
+|Deploying Nexus Dashboard in Your Organization - BRKDCN-3914 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKDCN-3914.pdf|
+|Deploying the Webex App to your Organization - BRKCOL-2198 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKCOL-2198.pdf|
+|Deploy Visibility in Your SASE Architecture With ThousandEyes - BRKOPS-2857 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKOPS-2857.pdf|
+|Design and Deploy Layer 4-Layer 7 Network Services in a Multi-tenant Data Center using NX-OS and NDFC - BRKDCN-2937 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKDCN-2937.pdf|
+|Design, Automate, and Manage VXLAN BGP EVPN Multi-Site with NDFC - BRKDCN-2988 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKDCN-2988.pdf|
+|Design, Deploy and Manage Transport Slices using SDN Controller and Assurance  - BRKSPG-2263 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKSPG-2263.pdf|
+|Design, Deploy and Troubleshoot Network Detection and Response - BRKSEC-2248 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKSEC-2248.pdf|
+|Designing Highly Available Networks Using Cisco Catalyst 9000 Switches - BRKENS-2095 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKENS-2095.pdf|
+|Designing regular and irregular meeting rooms - BRKCOL-1176 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKCOL-1176.pdf|
+|Designing Routed Optical Networks: IP/MPLS Considerations - BRKSPG-2029 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKSPG-2029.pdf|
+|Designing Seamless Integration between Campus BGP EVPN and External Domains - BRKENS-2050 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKENS-2050.pdf|
+|Differentiating B2B Services and Transport with QoE and Proactive Service Assurance - BRKSPG-2643 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKSPG-2643.pdf|
+|Don't Just Connect, Grow Your IoT Business with Cisco IoT Cellular Connectivity Management - BRKSPG-1002 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKSPG-1002.pdf|
+|Do’s and Don’ts in Network Test Automation - BRKOPS-2312 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKOPS-2312.pdf|
+|Do You Know Where Your Data Is? A deep dive on Cisco Umbrella CASB and DLP and how to protect your locations, data and users - BRKSEC-2143 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKSEC-2143.pdf|
+|Earning Your CCNP Enterprise Certification: What You Need to  Know - BRKCRT-2008 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKCRT-2008.pdf|
+|Efficacy 101: How to Detect, Protect, and Remediate against Email-based Threats - BRKSEC-2245 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKSEC-2245.pdf|
+|Elevating Data Center Security: A Keynote on Transforming Cisco's Security Landscape - BRKCOC-2671 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKCOC-2671.pdf|
+|Empower an extensible ecosystem with Cisco Observability Platform - BRKAPP-2326 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKAPP-2326.pdf|
+|Empowering Agents and Supervisors for Customer Service Excellence - BRKCCT-1008 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKCCT-1008.pdf|
+|Empowering Your Network with SD-WAN OMP: Path Optimization and Policy Insights Use Cases - BRKENT-3115 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKENT-3115.pdf|
+|Enable your Contact Center with Intelligent Data - BRKCCT-1656 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKCCT-1656.pdf|
+|Enabling Intelligent Workplaces for Hybrid Working - BRKCOL-2265 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKCOL-2265.pdf|
+|Enabling Site Survivability for Webex Calling - BRKCOL-2993 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKCOL-2993.pdf|
+|End-to-End QoS Implementation and Operation with Cisco Nexus Switches - BRKDCN-3953 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKDCN-3953.pdf|
+|Enhancing IP Traffic Flow Visibility to Support Sustainability in Communication Service Providers’ Networks - BRKSPG-2583 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKSPG-2583.pdf|
+|Enterprise Full-Stack Observability at Scale: Multi Domain Operational Visibility - BRKMER-2009 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKMER-2009.pdf|
+|Evaluating and Improving Defenses With MITRE ATT&CK - BRKSEC-2227 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKSEC-2227.pdf|
+|Everything that you need to be aware of Licensing for Cisco Catalyst Center - BRKOPS-2375 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKOPS-2375.pdf|
+|Evolution of the Transport Network Architecture for 5G and Beyond - BRKSPG-2133 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKSPG-2133.pdf|
+|EVPN Deep Dive with IOS-XR Configuration Examples for Service Provider Metro and Data Center - BRKMPL-2253 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKMPL-2253.pdf|
+|EVPN Troubleshooting and Debugging - BRKSPG-2473 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKSPG-2473.pdf|
+|Expressway Security and Hardening Recommendations for Hybrid Work Scenarios - BRKCOL-3301 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKCOL-3301.pdf|
+|Extended Detection with Cisco XDR: Security analytics across the enterprise  - BRKSEC-2178 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKSEC-2178.pdf|
+|Extending Enterprise Network into Public Cloud with Cisco Catalyst 8000V Edge Software - BRKXAR-2003 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKXAR-2003.pdf|
+|From Beginner to Champion: Troubleshooting firepower clustering - BRKSEC-3691 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKSEC-3691.pdf|
+|From Doubt to Confidence: A Step-by-Step Approach to SD-Access Project - BRKENS-1800 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKENS-1800.pdf|
+|From Zero to Multicloud Hero in 60 minutes - BRKCLD-2409 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKCLD-2409.pdf|
+|Full Stack Observability: Managing the Application Experience with Cisco - BRKCLD-2310 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKCLD-2310.pdf|
+|Full-Stack Observability: The HOW! - BRKAPP-2759 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKAPP-2759.pdf|
+|Gain Scalable, Deep Visibility into Network Traffic with Cisco Nexus Dashboard Data Broker - BRKDCN-1614 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKDCN-1614.pdf|
+|GAME Time! Will You Be the Networker of the Year? - BRKENT-2837 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKENT-2837.pdf|
+|Growing Your Technical Career - Looking Forward and Lessons Learned - BRKGEN-1002 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKGEN-1002.pdf|
+|Growth and Profitability with Innovations in Software - BRKXAR-1722 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKXAR-1722.pdf|
+|Hands-free automation! 4 steps to build an event-driven automation workflow - BRKDEV-2197 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKDEV-2197.pdf|
+|Harnessing Identity-Based Firewalling on the Meraki MX powered by the Meraki Full Stack - BRKMER-2515 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKMER-2515.pdf|
+|Harnessing the Capabilities of the Cisco Catalyst SD-WAN Policy Framework: Architecture, Building Blocks, and Case Studies. - BRKENT-2043 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKENT-2043.pdf|
+|Hear from a customer around how they are implementing Cisco FSO - BRKAPP-2560 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKAPP-2560.pdf|
+|High Capacity Premises-based PSTN Option for Webex Calling - BRKCOL-2312 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKCOL-2312.pdf|
+|High-Density Wi-Fi Design, Deployment, and Optimization - BRKEWN-2087 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKEWN-2087.pdf|
+|High-Value Wavelength/Private Line Services: Understanding the Customer and Provider Perspective - BRKOPT-1005 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKOPT-1005.pdf|
+|HitchHiker's Guide to Troubleshooting IPv6 - BRKENT-3340 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKENT-3340.pdf|
+|How Cisco SD-WAN Analytics and Insights Power Faster Time to Resolution - BRKENT-2469 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKENT-2469.pdf|
+|How to Build a Secure Multi-Cloud Environment with Cisco Secure Workload and Multicloud defense - BRKSEC-2421 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKSEC-2421.pdf|
+|How to Build a Time Machine - BRKCLD-1603 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKCLD-1603.pdf|
+|How to Choose the Correct Branch Router - BRKENT-2139 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKENT-2139.pdf|
+|How to get the most out of your events and interactions with clients and employees using Webex Events and Webex Webinars - BRKCOL-2663 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKCOL-2663.pdf|
+|How to Leverage Generative AI to Protect Your Cloud Applications - BRKETI-2512 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKETI-2512.pdf|
+|How to Set Up an ACI Multi-Site with Single Pod and Multi-Pod - BRKDCN-2919 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKDCN-2919.pdf|
+|I built a private cloud in 4 hours let me show you how - BRKCLD-1010 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKCLD-1010.pdf|
+|If you don't have a Security Reference Architecture, you must get one! - BRKSEC-1240 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKSEC-1240.pdf|
+|IMM and X-Series Automation-Driven Operations: The Definitive(ish) Guide - BRKDCN-2679 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKDCN-2679.pdf|
+|Implement Direct Internet Access with Secure Firewall Threat Defense - BRKSEC-2086 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKSEC-2086.pdf|
+|Implementing Customer Interaction Automation Using Webex Connect - BRKCOL-2956 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKCOL-2956.pdf|
+|Implementing Segmentation in Industrial Networks - BRKIOT-2882 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKIOT-2882.pdf|
+|Incident Response with Cisco XDR: how to level up your SOC using both Guided and Automated Response - BRKSEC-2502 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKSEC-2502.pdf|
+|Industrial PoE: The Ultimate Guide for Beginners - BRKIOT-1128 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKIOT-1128.pdf|
+|Infrastructure as Code for ACI using Ansible and Terraform - BRKDCN-2906 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKDCN-2906.pdf|
+|Infrastructure as Code for NXOS and NDFC with Ansible - BRKDCN-2946 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKDCN-2946.pdf|
+|Infrastructure as Code with Cisco Catalyst 9000 Virtual - BRKOPS-2455 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKOPS-2455.pdf|
+|Innovations in Silicon and Software: Defining the Next Generation of Enterprise Technology - BRKARC-2093 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKARC-2093.pdf|
+|Inside Cisco IT: Evolving the secure user experience with Passwordless & Device Posture - BRKCOC-2987 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKCOC-2987.pdf|
+|Integrating Private 5G into your Enterprise Network Segmentation and QoS Design - BRKSPM-2222 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKSPM-2222.pdf|
+|Internet of Things on the Next Generation Cisco Catalyst Wireless Wi-Fi 6E Access Points - BRKEWN-1538 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKEWN-1538.pdf|
+|Intersight Managed Mode (IMM) for UCS Manager Admins - BRKDCN-2938 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKDCN-2938.pdf|
+|Introducing Crosswork Planning the Evolution of WAE - BRKOPS-1643 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKOPS-1643.pdf|
+|Introduction to Campus Wired LAN Deployment Using Cisco Validated Designs - BRKENS-1500 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKENS-1500.pdf|
+|Introduction to Cisco Application Centric Infrastructure (ACI) - BRKDCN-1601 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKDCN-1601.pdf|
+|Introduction to Infrastructure as Code for Cisco Catalyst Center with Terraform - BRKOPS-1183 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKOPS-1183.pdf|
+|Introduction to NDFC: Simplifying Management of Your Data Center - BRKDCN-1619 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKDCN-1619.pdf|
+|Introduction to Segment Routing - BRKSP-2551 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKSP-2551.pdf|
+|Introduction to SRv6 uSID Technology - BRKSPG-2203 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKSPG-2203.pdf|
+|Introduction to VXLAN: The Future Path of Your Data Center - BRKDCN-1621 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKDCN-1621.pdf|
+|IP Fabric for Storage Networks Best Practice and Design - BRKDCN-2945 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKDCN-2945.pdf|
+| IPv6 Enabled Wireless [Wi-Fi] Access – Design & Deployment Strategies - BRKENS-2834 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKENS-2834.pdf|
+|IPv6:: It's Happening! - BRKIPV-2191 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKIPV-2191.pdf|
+|IPv6 Security in the Local Area with First Hop Security - BRKENT-3002 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKENT-3002.pdf|
+|IPv6 Today: Real World Deployments with Cisco Meraki - BRKIPV-1180 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKIPV-1180.pdf|
+|IPv6—What Do you Mean There Isn't a Broadcast? - BRKIPV-1616 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKIPV-1616.pdf|
+|ISE Deployment Staging and Planning - BRKSEC-2660 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKSEC-2660.pdf|
+|ISE Your Meraki Network with Group Based Adaptive Policy - BRKSEC-2100 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKSEC-2100.pdf|
+|It’s Cats vs Rats Going Hybrid!  – Attack and Defence in the Cloud - BRKSEC-2485 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKSEC-2485.pdf|
+|Keeping Up on Network Security with Cisco Secure Firewall - BRKSEC-2236 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKSEC-2236.pdf|
+|Keep Your Cisco Catalyst 9800 and AP-COS Wireless Network Healthy, with Wireless Config Analyzer Express and Other Advanced Tools - BRKEWN-3006 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKEWN-3006.pdf|
+|Knock, knock. Who is there behind your firewall? - All About Identity on Cisco Secure Firewall - BRKSEC-2590 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKSEC-2590.pdf|
+|Kubernetes (K8s) Infrastructure Connectivity for ACI—Network Designs for the Modern Data Center - BRKDCN-2663 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKDCN-2663.pdf|
+|Kubernetes (K8s) Infrastructure Connectivity  - Network Designs for the Modern Data Center - BRKDCN-2662 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKDCN-2662.pdf|
+|Lab Up For Success With Cisco Modeling Labs - BRKCRT-2059 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKCRT-2059.pdf|
+|Lessons Learned from Designing Routed Optical Networks - BRKOPT-2015 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKOPT-2015.pdf|
+|Lessons Learned with Cost Insights and Application Resource Optimizer ​ - BRKAPP-1775 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKAPP-1775.pdf|
+|Let Cisco Catalyst Center be your guide to a Zero-Trust Workplace - BRKOPS-2683 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKOPS-2683.pdf|
+|Let's Deploy IPv6 NOW - BRKENT-2109 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKENT-2109.pdf|
+|Let's get Physical with IoT Wireless - BRKIOT-2265 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKIOT-2265.pdf|
+|LISP: Optimized Control Plane for Cisco SD-Access - BRKENS-2833 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKENS-2833.pdf|
+|Low Earth Orbit Satellites - Leveraging Cisco Technologies to Improve Your LEOsat Deployments - BRKOPS-2586 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKOPS-2586.pdf|
+|Making the Internet a better place by participating in the IETF - BRKGEN-1385 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKGEN-1385.pdf|
+|Malware Execution As A Service: a Deep Dive into CSMA Advanced File Analysis - BRKSEC-2101 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKSEC-2101.pdf|
+|Management of Traditional Three-Tier Hierarchical Data Center Architectures using Nexus Dashboard Fabric Controller (NDFC) - BRKDCN-1959 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKDCN-1959.pdf|
+|Managing Your Data Center Network with ServiceNow - BRKDCN-2969 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKDCN-2969.pdf|
+|Mastering ISE Upgrades: Best Practices, Tips, and Tricks   - BRKSEC-2889 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKSEC-2889.pdf|
+|Mean Time to Innocence: A Use Case Approach to Troubleshooting and Visibility with Nexus Insights  - BRKDCN-3924 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKDCN-3924.pdf|
+|Meraki Wireless AIOps & Assurance – Optimizing Enterprise Wi-Fi at Scale - BRKEWN-2014 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKEWN-2014.pdf|
+|Meraki Wireless from a Troubleshooter Perspective - BRKEWN-2399 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKEWN-2399.pdf|
+|Meraki Wireless: Ready for Enterprise - BRKEWN-2035 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKEWN-2035.pdf|
+|Migrate Your MPLS Network and Services to SRv6 with Simplicity - BRKSP-2468 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKSP-2468.pdf|
+|Mission-Critical OT Network Best Practices Using Private 5G Wireless Services - BRKSPM-3581 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKSPM-3581.pdf|
+|Model-Driven Programmability with Cisco NX-OS - BRKDCN-2604 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKDCN-2604.pdf|
+|Modeling and building observability solutions with Cisco Observability Platform  - BRKAPP-2116 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKAPP-2116.pdf|
+|Modernizing Broadband Services with Cisco Subscriber Edge Architecture and EVPN Access - BRKSP-2612 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKSP-2612.pdf|
+|Modernizing Critical Infrastructure Utility and Railway WAN Transport with SR and EVPN - BRKSP-2776 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKSP-2776.pdf|
+|Modern Network Automation and Orchestration at Mass Scale - BRKOPS-2827 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKOPS-2827.pdf|
+|Monitoring Cisco Catalyst Wireless with the Meraki Dashboard - BRKEWN-2097 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKEWN-2097.pdf|
+|Multicloud Enablers in CCNP Certifications - BRKCRT-2679 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKCRT-2679.pdf|
+|Multicloud Security Unleashed: Bridging the Gap between SD-WAN, Clouds, Firewall Service Insertion, Valtix, and Secure Internet Gateways - BRKENT-2524 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKENT-2524.pdf|
+|Multicloud Workload Security Analytics - BRKCLD-2009 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKCLD-2009.pdf|
+|Multi-Domain Orchestration is Just a Click Away with Cisco Intersight - BRKCLD-2015 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKCLD-2015.pdf|
+|Multi-Tier Fabrics—Network Designs for the Modern Data Center - BRKDCN-2999 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKDCN-2999.pdf|
+|My CxO had a bad Meeting! - Best practices to deploy and troubleshoot Webex within your environment - BRKCOL-2055 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKCOL-2055.pdf|
+|Network Automation in Theory and Practice. A journey from YANG modelling to monitored and adaptive services - BRKOPS-2431 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKOPS-2431.pdf|
+|Network Automation with Routed Optical Networking (RON) Architecture - BRKOPT-2637 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKOPT-2637.pdf|
+|Network Best Practices for Artificial Intelligence Data Centre  - BRKDCN-2921 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKDCN-2921.pdf|
+|New Innovations in Cisco AppDynamics - BRKAPP-2674 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKAPP-2674.pdf|
+|Nexus-as-Code - Kick-Start Your Automation with ACI - BRKDCN-2673 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKDCN-2673.pdf|
+|Omnichannel Webex Contact Center - a deep dive into the capabilities solving real business cases - BRKCCT-2017 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKCCT-2017.pdf|
+|OpenRoaming under the Hood - BRKEWN-2037 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKEWN-2037.pdf|
+|Open Telemetry and DevOps with Cisco AppDynamics & Full-Stack Observability - BRKAPP-2570 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKAPP-2570.pdf|
+|Optimizing and Orchestrating End Users' Connections to Public and Private Clouds in a SASE World - BRKENT-2006 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKENT-2006.pdf|
+|Overcoming Challenges in the New Encrypted World for service provider networks - BRKSEC-2325 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKSEC-2325.pdf|
+|Overlay Multicast in VXLAN EVPN (Tenant Routed Multicast - TRM) - BRKDCN-3638 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKDCN-3638.pdf|
+|Pig-in-the-middle - TLS Decryption and Encrypted Visibility Engine Deep Dive on Cisco Secure Firewall - BRKSEC-3320 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKSEC-3320.pdf|
+|Planning and Designing Successful Cloud Calling Deployments with Webex Calling - BRKCOL-2787 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKCOL-2787.pdf|
+|Power Your WAN with Cisco SD-Routing  - BRKENT-1039 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKENT-1039.pdf|
+|Practical Telemetry for the AppDev, DevOps and SRE - BRKDEV-1534 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKDEV-1534.pdf|
+|Preparing for the New DevNet Associate Certification - BRKCRT-2080 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKCRT-2080.pdf|
+|Programmability Skills for Engineers Who Don't Want to Code - BRKOPS-1237 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKOPS-1237.pdf|
+|Protect Your Sensitive Data from Generative AI Usage - BRKCLD-2338 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKCLD-2338.pdf|
+|Public Key Cryptography - from RSA and EC to post-quantum - BRKSEC-3129 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKSEC-3129.pdf|
+|RADKit - an SDK to control every device, everywhere, all at once - BRKOPS-3065 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKOPS-3065.pdf|
+|Redefining End-to-End Application Observability with ThousandEyes and AppDynamics - BRKCOC-2545 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKCOC-2545.pdf|
+|Reduce Resolution Time with a Service-Centric Approach to Troubleshooting - BRKSPG-2474 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKSPG-2474.pdf|
+|Reimagine Digital Experience Monitoring - BRKAPP-2673 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKAPP-2673.pdf|
+|Rethink Your Edge Routing Architecture - BRKSP-2275 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKSP-2275.pdf|
+|Revolutionize Your Network Management with Cisco Catalyst Center: Physical or Virtual on AWS or VMware ESXi - BRKOPS-2521 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKOPS-2521.pdf|
+|Revolutionizing Communication: Cisco IT’s Strategy and Migration to Webex Calling - BRKCOC-2670 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKCOC-2670.pdf|
+|Revolutionizing IT Landscapes: Unleashing the Power of Services as Code for your automation journey - BRKOPS-2142 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKOPS-2142.pdf|
+|Route based VPNs with Cisco Secure Firewall - BRKSEC-3058 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKSEC-3058.pdf|
+|SAN Insights—Real-time and Always-On NVMe Visibility at Scale - BRKDCN-3645 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKDCN-3645.pdf|
+|SASE the SOCs New Best Friend - BRKSEC-2128 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKSEC-2128.pdf|
+|Save Ca$h and Energy with Catalyst Networks. Drive Sustainability with your network! - BRKOPS-1933 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKOPS-1933.pdf|
+|Saving Energy and Money with Your Cisco Wireless Network - BRKEWN-2043 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKEWN-2043.pdf|
+|Saving Energy Doesn’t Have to Cost You Much Energy - BRKXAR-1723 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKXAR-1723.pdf|
+|Scalable Meraki Access Switching - BRKMER-1415 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKMER-1415.pdf|
+|Scaling Enterprise Networks with Routed Optical Networking - BRKOPT-2017 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKOPT-2017.pdf|
+|SD Access: Troubleshooting the Fabric - BRKTRS-3820 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKTRS-3820.pdf|
+|SD-WAN - Advanced Troubleshooting with the power of NWPI and other features - BRKOPS-2622 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKOPS-2622.pdf|
+|SD-WAN from Design to Reality - BRKENT-2423 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKENT-2423.pdf|
+|SD-WAN On-Demand with Cisco and AT&T - BRKENT-2579 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKENT-2579.pdf|
+|Secure Access with ISE in the Cloud - BRKSEC-2039 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKSEC-2039.pdf|
+|Secure Connectivity Anywhere  - The Evolution of Cisco Remote Access Technologies  - BRKSEC-1057 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKSEC-1057.pdf|
+|Secure Firewall in ACI - BRKDCN-3912 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKDCN-3912.pdf|
+|Secure Operations for an IPv6 Network - BRKSEC-2044 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKSEC-2044.pdf|
+|Secure, optimized and scalable multi-cloud networking using Meraki (v)MX for faster application SLAs - BRKMER-2652 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKMER-2652.pdf|
+|Securing Cloud Native Applications with Panoptica - BRKETI-2511 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKETI-2511.pdf|
+|Securing End-to-End from Campus and Branch to Cloud with Cisco Catalyst 9000 - BRKENS-3094 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKENS-3094.pdf|
+|Securing Industrial IoT Networks - A look at ISA/IEC-62443 and How Cisco Can Help Secure the IIoT Network - BRKIOT-1527 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKIOT-1527.pdf|
+|Securing Industrial Networks: Where to start -  using Cyber Vision for OT Asset Visibility - BRKIOT-2910 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKIOT-2910.pdf|
+|Securing Multicloud Infrastructure using Multicloud Defense - BRKSEC-3550 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKSEC-3550.pdf|
+|Securing Starlink Internet Services - BRKSEC-2037 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKSEC-2037.pdf|
+|Securing Webex Meetings and Avoiding Meeting Fraud - Privacy, Confidentiality and Security Options for Meetings in a Virtual World - BRKCOL-2876 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKCOL-2876.pdf|
+|Securing What Matters: A Risk-Based Approach to Vulnerability Management - BRKSEC-1111 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKSEC-1111.pdf|
+|Seeing the Unseen: An Overview of ThousandEyes Network Intelligence - BRKCLD-1654 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKCLD-1654.pdf|
+|Segment Routing Innovations in IOS XE - BRKENT-1520 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKENT-1520.pdf|
+|Simple Leaf/Spine with a Touch of ToR—Network Designs for the Modern Data Center - BRKDCN-2667 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKDCN-2667.pdf|
+|Simple VXLAN/EVPN Fabric Setup with Nexus Dashboard - BRKDCN-2929 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKDCN-2929.pdf|
+|Simplifying Operations and Upgrades on Your Nexus Switch using Modular NXOS Software - BRKDCN-2639 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKDCN-2639.pdf|
+|Smart Building or $t#&%d Building. Is Your Building Smart Enough? - BRKOPS-1958 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKOPS-1958.pdf|
+|Solving Global WAN Challenges with Multi-Region Fabric - BRKENT-2609 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKENT-2609.pdf|
+|Solving the Segmentation Puzzle with Secure Workload! - BRKSEC-2161 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKSEC-2161.pdf|
+|SP Architectural & Service Evolution with the Cisco SP NaaS framework - BRKSP-2133 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKSP-2133.pdf|
+|Stairway to Heaven: Building Golden Paths for Cloud-Native Applications using Cisco Technologies - BRKCLD-2226 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKCLD-2226.pdf|
+|Streaming Telemetry on Cisco NX-OS - BRKDCN-2689 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKDCN-2689.pdf|
+| Stronger together: Enhance your threat detection with Cisco security solutions and Splunk Enterprise - BRKSEC-2133 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKSEC-2133.pdf|
+|Struggling Operating Security in Complex, Distributed and Multi-org Environments? Cisco has your back! - BRKSEC-1645 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKSEC-1645.pdf|
+|Successfully Configuring Cisco Catalyst 9800 Series Wireless on Your First Shot - BRKEWN-2094 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKEWN-2094.pdf|
+|Successful Migrations from Unified CM to Webex Calling - BRKCOL-2481 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKCOL-2481.pdf|
+|Synchronizing 5G Mobile Networks - BRKSPG-3050 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKSPG-3050.pdf|
+|Taking Authentication to the Next Level with Duo Security - BRKSEC-2584 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKSEC-2584.pdf|
+|Taking Infrastructure as Code for LAN and WAN to the Next Level with CI/CD - BRKOPS-2357 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKOPS-2357.pdf|
+|Talking to Your Network - Leveraging the Power of AI and LLMs for Network Visibility and Control - BRKOPS-2583 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKOPS-2583.pdf|
+|The 4 steps to Securing Endpoints with Meraki Systems Manager - BRKMER-2180 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKMER-2180.pdf|
+|The All-Access Guide to Prep for Your CCNA  - BRKCRT-1001 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKCRT-1001.pdf|
+|The Art of Designing ThousandEyes Alerts & Dashboards - BRKOPS-2076 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKOPS-2076.pdf|
+|The Cloud Managed Campus - BRKMER-2562 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKMER-2562.pdf|
+|The Coolest Cloud-Native DevOps Tools - BRKCLD-2979 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKCLD-2979.pdf|
+|The Five Biggest Security Nightmares Waiting to Happen to Your Cloud Applications and How to Protect Your Business from Them - BRKETI-2903 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKETI-2903.pdf|
+|The Flow of Things: Navigating and Properly Enabling NetFlow-based Solutions through Cisco Catalyst Center - BRKOPS-2038 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKOPS-2038.pdf|
+|The Future of Compute Monitoring and Observability with Intersight - BRKDCN-2649 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKDCN-2649.pdf|
+|The Journey Toward Routed Optical Networking - BRKOPT-2130 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKOPT-2130.pdf|
+|The Network Diary in Detective Hands  - BRKOPS-2547 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKOPS-2547.pdf|
+|The New Digital Substation - more efficient, more secure and ready for demanding modern Grid applications - BRKIOT-2015 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKIOT-2015.pdf|
+|The New, Encrypted Protocol Stack Taking over the Internet and How to Deal with It - BRKSPM-2024 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKSPM-2024.pdf|
+|The Power of Predictive Attack Analysis in an Offensive-Defensive Nexus - BRKETI-2161 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKETI-2161.pdf|
+|The Quantum Network Development Kit: Quantum Network Simulation Made Easy - BRKETI-2445 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKETI-2445.pdf|
+|The SP Services Exchange: What? Why? How? - BRKENT-2254 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKENT-2254.pdf|
+|Think Like a TAC Engineer: A guide to Cisco Secure Firewall most common pain points - BRKSEC-3533 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKSEC-3533.pdf|
+|Think Like a TAC Engineer: Troubleshooting Secure Client Remote Access Issues - BRKSEC-3935 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKSEC-3935.pdf|
+|Threat Hunting using XDR (Breach Protection Suite): Stories from Black Hat NOC/SOC - BRKSEC-2587 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKSEC-2587.pdf|
+|Tips and Tricks for Prime Infrastructure to Cisco Catalyst Center Migration - BRKOPS-2077 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKOPS-2077.pdf|
+|Top 5 innovations in Cisco Cloud Observability - BRKAPP-2672 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKAPP-2672.pdf|
+|Troubleshoot Cisco Catalyst 9800 Wireless Controllers - BRKEWN-3628 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKEWN-3628.pdf|
+|Troubleshooting Cisco Catalyst 9000 Series Switches - BRKTRS-3090 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKTRS-3090.pdf|
+|Troubleshooting Hybrid Calendar Service - BRKCOL-2494 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKCOL-2494.pdf|
+|Troubleshooting Segment Routing - BRKSPG-3624 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKSPG-3624.pdf|
+|Troubleshooting UCM Calling in the Webex App - BRKCOL-3818 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKCOL-3818.pdf|
+|Troubleshooting Webex Authentication and Provisioning  - BRKCOL-3117 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKCOL-3117.pdf|
+|Troubleshooting Webex Calling Premises-based PSTN - BRKCOL-2812 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKCOL-2812.pdf|
+|Tune Your Cisco Wi-Fi Designs for the Most Demanding Clients and Applications, Boosted with Applied AI - BRKEWN-2926 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKEWN-2926.pdf|
+|Turn Buildings into Intelligent Spaces powered by the Cloud - BRKMER-1691 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKMER-1691.pdf|
+|Understand call flows and new features to successfully utilize the Video Mesh Solution - BRKCOL-2750 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKCOL-2750.pdf|
+|Understanding and Troubleshooting the Cisco Catalyst Center - BRKOPS-2464 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKOPS-2464.pdf|
+|Understanding Cisco Private Cloud Contact Center Enterprise offering: WCCE - BRKCCT-1001 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKCCT-1001.pdf|
+|Understanding Voice Media and real-time media handling for Webex Contact Center - BRKCCT-2723 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKCCT-2723.pdf|
+|Understanding Webex Connect as the platform for customer engagement using digital channels - BRKCOL-2722 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKCOL-2722.pdf|
+|Understanding Wireless Security and the Implications for Secure Wireless Network Design - BRKEWN-3004 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKEWN-3004.pdf|
+|Unified Access and Aggregation with Cisco Routed PON - BRKSP-1169 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKSP-1169.pdf|
+|Unified Observability Experience with Cisco Full-Stack Observability - BRKAPP-1042 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKAPP-1042.pdf|
+|Unleashing Innovation: Introducing Outshift by Cisco - BRKETI-1003 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKETI-1003.pdf|
+|Unleashing the Art of Troubleshooting Authentication Latency issues - BRKSEC-3412 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKSEC-3412.pdf|
+|Unleash Your Network Potential:  Cisco Catalyst Center's MIB2/SNMP Empowerment for 3rd Party Devices - BRKOPS-1110 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKOPS-1110.pdf|
+|Unlocking Network Excellence: Configuration Standardization and Automated Software Upgrades using Cisco Catalyst Center - BRKCOC-2465 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKCOC-2465.pdf|
+|Unlocking the Power of Cisco Catalyst SD-WAN: Enhanced Network Operations - BRKENT-2195 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKENT-2195.pdf|
+|Using Catalyst 8500 for Multicloud Direct Connectivity and EVPN Fabric Services - BRKENT-2749 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKENT-2749.pdf|
+|Video Production and Webex, Using the Webex Service and Webex Endpoints to Enhance Your Events and Presentation - BRKCOL-1102 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKCOL-1102.pdf|
+|Visibility, Detection and Response with Cisco Secure Network Analytics - BRKSEC-3019 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKSEC-3019.pdf|
+|VRF, MPLS and MP-BGP Fundamentals - BRKCRT-2601 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKCRT-2601.pdf|
+|VXLAN BGP EVPN Multi-Site - BRKDCN-2913 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKDCN-2913.pdf|
+|VXLAN EVPN: A Deep Dive into Packet Forwarding - BRKDCN-3966 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKDCN-3966.pdf|
+|Webex and GDPR - BRKCOL-2109 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKCOL-2109.pdf|
+|Webex and your Home Office: Always Look and Sound Your Best! - BRKCOL-2994 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKCOL-2994.pdf|
+|Webex Calling - How do I begin? - BRKCOL-2065 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKCOL-2065.pdf|
+|Webex Contact Center Routing and Flow Orchestration - Elevating Customer and User Experiences - BRKCCT-2028 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKCCT-2028.pdf|
+|Webex Data Management, Control, and Loss Prevention - BRKCOL-2126 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKCOL-2126.pdf|
+|Webex Edge Connect Design and Deployment for Webex Meetings and Calling and Dedicated Instance - BRKCOL-2094 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKCOL-2094.pdf|
+|Webex Hologram Technology Preview - BRKCOL-2996 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKCOL-2996.pdf|
+|Webex Security Mechanisms and Network Requirements - BRKCOL-2279 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKCOL-2279.pdf|
+| Webex Troubleshooting Superpowers with ThousandEyes and Meraki Integrations - BRKCOL-2662 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKCOL-2662.pdf|
+|Webex Video Interoperability with Microsoft Teams - BRKCOL-2184 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKCOL-2184.pdf|
+|What's in a Platform? A peek inside the Webex cloud infrastructure - BRKCOL-2990 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKCOL-2990.pdf|
+|Who is Behind the Umbrella? A View on User Authentication with Cisco Umbrella - BRKSEC-2287 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKSEC-2287.pdf|
+|Why Cisco Secure Email if You Have Microsoft 365 - BRKSEC-2913 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKSEC-2913.pdf|
+|Why You Shouldn't Fear Upgrading Your ACI Fabric—the Handbook - BRKDCN-2910 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKDCN-2910.pdf|
+|Your Data Center Is Back in Vogue and Cool Again  - BRKCLD-2280 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKCLD-2280.pdf|
+|Zero Trust Network Access (ZTNA) Demystified - What It Is, Why You Need It and the New Cisco Technologies That Make Frictionless Security Possible - BRKSEC-2079 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKSEC-2079.pdf|
+|Zero Trust: Securing the Evolving Workplace - BRKSEC-2053 | https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2024/pdf/BRKSEC-2053.pdf|
