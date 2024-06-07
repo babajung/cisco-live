@@ -14,3 +14,5 @@
 [cisco-live-2023-melbourne](https://github.com/babajung/cisco-live/blob/master/ciscolive-2023-melbourne.md)
 
 [cisco-live-2024-amsterdam](https://github.com/babajung/cisco-live/blob/master/ciscolive-2024-amsterdam.md)
+
+[cisco-live-2024-lasvegas](https://github.com/babajung/cisco-live/blob/master/ciscolive-2024-lasvegas.md)
