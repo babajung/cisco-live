@@ -311,7 +311,7 @@
 |Microsoft Teams Rooms - Cisco Room Bar Pro - DEMWBX-02 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2024/pdf/DEMWBX-02.pdf|
 |Migration from AireOS to IOS XE (Catalyst 9800) Wireless LAN Controllers and Its HA SSO Redundancy - LABEWN-1075 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2024/pdf/LABEWN-1075.pdf|
 |Migration to Webex Calling Lab - LTRCOL-3001 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2024/pdf/LTRCOL-3001.pdf|
-|Mitigate identity attacks - Duo |Identity Intelligence - DEMSEC-06 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2024/pdf/DEMSEC-06.pdf|
+|Mitigate identity attacks - Duo / Identity Intelligence - DEMSEC-06 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2024/pdf/DEMSEC-06.pdf|
 |Mitigating Identity Attacks - WOSSEC-1002 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2024/pdf/WOSSEC-1002.pdf|
 |Modern Authentication explained for the Network Professional - BRKSEC-2061 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2024/pdf/BRKSEC-2061.pdf|
 |Monitoring as Code: Use Terraform to Deploy Splunk Observability Cloud Dashboards - DEVNET-2136 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2024/pdf/DEVNET-2136.pdf|
