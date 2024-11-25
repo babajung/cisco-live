@@ -41,7 +41,6 @@
 |Architecting AI-delivered customer experiences with Webex Contact Center - BRKCCT-2522 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2024/pdf/BRKCCT-2522.pdf|
 |Architecting Hybrid Multicloud Infrastructures - BRKDCN-2616 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2024/pdf/BRKDCN-2616.pdf|
 |Architecting SASE into your infrastructure using Cisco Secure Connect - CISCOU-1036 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2024/pdf/CISCOU-1036.pdf|
-|Architecting Your Cloud Transition with Cisco Security - TECSEC-2011 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2024/pdf/TECSEC-2011.pdf|
 |Architecture Options for Extending the Enterprise WAN Securely Into Public Cloud Providers - BRKNWT-2126 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2024/pdf/BRKNWT-2126.pdf|
 |Are you Managing your Network, or is your Network Managing you? - CENDCN-1762 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2024/pdf/CENDCN-1762.pdf|
 |Are you smarter than a network engineer? - CISCOU-1031 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2024/pdf/CISCOU-1031.pdf|
@@ -72,7 +71,6 @@
 |Building Digital Resilience - CENDCN-1759 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2024/pdf/CENDCN-1759.pdf|
 |Building Incident Response Actions for Meraki using Cisco XDR Orchestration Workflows - DEVNET-2057 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2024/pdf/DEVNET-2057.pdf|
 |Building SDWANs with Cisco Firewall! - BRKSEC-2018 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2024/pdf/BRKSEC-2018.pdf|
-|Building the Modern SOC: Enhancing Cisco Breach Protection with Splunk - TECSEC-2595 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2024/pdf/TECSEC-2595.pdf|
 |Build it Yourself: VXLAN EVPN Fabric - LABDCN-2009 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2024/pdf/LABDCN-2009.pdf|
 |Build Scalable Data-Driven Networks Using Splunk for Service Providers - BRKSPG-2589 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2024/pdf/BRKSPG-2589.pdf|
 |Build your first GenAI Assistant using local Data from Scratch - DEVWKS-2127 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2024/pdf/DEVWKS-2127.pdf|
@@ -88,10 +86,8 @@
 |ChatBot for Catalyst Center - an Open-Source GenAI based Bot - DEVNET-3000 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2024/pdf/DEVNET-3000.pdf|
 |CI/CD Pipelines for Infrastructure Automation - CISCOU-2041 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2024/pdf/CISCOU-2041.pdf|
 |Cisco APIs for a sustainable future - DEVNET-1022 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2024/pdf/DEVNET-1022.pdf|
-|Cisco Catalyst 9000 Switching Software Innovations and Solutions - TECENS-2618 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2024/pdf/TECENS-2618.pdf|
 |Cisco Catalyst and Meraki SD-WAN: The Power of One - LTRENT-1423 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2024/pdf/LTRENT-1423.pdf|
 |Cisco Catalyst Center (formerly Cisco DNA Center) Troubleshooting Tools - LABOPS-2105 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2024/pdf/LABOPS-2105.pdf|
-|Cisco Catalyst Center Open-Source Integration with Microsoft Teams - DEVNET-2410 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2024/pdf/DEVNET-2410.pdf|
 |Cisco Catalyst Center Platform: APIs, Event Notifications, Integrations, and DevOps Resources - DEVNET-1087 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2024/pdf/DEVNET-1087.pdf|
 |Cisco Catalyst Center & Targeting Event Notifications via Webex Messaging - DEVWKS-2041 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2024/pdf/DEVWKS-2041.pdf|
 |Cisco Catalyst SD-WAN Fundamentals - CISCOU-2034 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2024/pdf/CISCOU-2034.pdf|
@@ -135,7 +131,6 @@
 |Control Hub for collaboration management and analytics - BRKCOL-2529 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2024/pdf/BRKCOL-2529.pdf|
 |Customer Case Studies: Lessons Learned from Cisco's SD-WAN Design Council - BRKENS-2720 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2024/pdf/BRKENS-2720.pdf|
 |Customer Heros Awards - CXLTS-1008 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2024/pdf/CXLTS-1008.pdf|
-|Cut the Cord: Design Principles to Deliver a Wireless-First Enterprise - BRKEWN-1107 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2024/pdf/BRKEWN-1107.pdf|
 |Day 2 Operations with Cisco Nexus Dashboard Insights Use Cases - BRKDCN-2615 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2024/pdf/BRKDCN-2615.pdf|
 |Demystifying Cisco Secure Access and Umbrella APIs - DEVNET-2274 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2024/pdf/DEVNET-2274.pdf|
 |Demystifying Malware: Practical Analysis Techniques - DEVNET-2329 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2024/pdf/DEVNET-2329.pdf|
@@ -154,7 +149,6 @@
 |Designing High Availability for Your Data Center with Resiliency - BRKDCN-2947 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2024/pdf/BRKDCN-2947.pdf|
 |Designing Highly Available Networks Using Catalyst 9000 Series Switches - BRKENS-2095 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2024/pdf/BRKENS-2095.pdf|
 |Detect and Stop breaches - WOSSEC-1004 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2024/pdf/WOSSEC-1004.pdf|
-|DevNet Expert Techtorial - TECCRT-3778 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2024/pdf/TECCRT-3778.pdf|
 |DevOps tools fight for relevance! - DEVNET-1280 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2024/pdf/DEVNET-1280.pdf|
 |Digital Experience Assurance: Using ThousandEyes to identify the root cause of outages and degradations. - BRKAPP-2160 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2024/pdf/BRKAPP-2160.pdf|
 |Digital Lego: Operations with Cisco's Comprehensive Portfolio - BRKXAR-2721 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2024/pdf/BRKXAR-2721.pdf|
@@ -193,8 +187,6 @@
 |Free Your AI Teams to Innovate Without Boundaries - CNCPS-1693 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2024/pdf/CNCPS-1693.pdf|
 |From Fish to Shark: 8 Stepping Stones in Cisco Secure Access (Secure Service Edge solution) journey - BRKSEC-2482 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2024/pdf/BRKSEC-2482.pdf|
 |From IT Challenges to Business Solutions: The Future of Observability - ITLGEN-1020 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2024/pdf/ITLGEN-1020.pdf|
-|From Zero to SD-WAN Hero: Planning, Designing, and Implementing Cisco Catalyst SD-WAN - TECENT-2376 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2024/pdf/TECENT-2376.pdf|
-|From zero to ThousandEyes (super) Hero - TECAPP-1524 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2024/pdf/TECAPP-1524.pdf|
 |Future-Proofed Workspaces - AI for Hybrid Work - ITLGEN-1023 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2024/pdf/ITLGEN-1023.pdf|
 |Future-proof workplace to be smarter and more sustainable - a technology blueprint - BRKAPP-2547 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2024/pdf/BRKAPP-2547.pdf|
 |Future-Proof Your Career with Cisco Security Certifications - CISCOU-1027 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2024/pdf/CISCOU-1027.pdf|
@@ -213,17 +205,13 @@
 |Hitachi Vantara: Would you like a side of AI with your Data? - CNCPS-1686 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2024/pdf/CNCPS-1686.pdf|
 |How to Be a Network Engineer in a Artificial Age? - CISCOU-1035 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2024/pdf/CISCOU-1035.pdf|
 |How to build a secure modern Hybrid cloud Environment - BRKSEC-2444 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2024/pdf/BRKSEC-2444.pdf|
-|How to Thrive Amid Hypervisor Disruptions and the Evolving Demands of Emerging Technologies - TECCOM-2259 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2024/pdf/TECCOM-2259.pdf|
 |How to Troubleshoot Audio Issues in Control Hub - TACCOL-2009 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2024/pdf/TACCOL-2009.pdf|
 |How to troubleshoot Secure Firewall datapath issues - TACSEC-2013 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2024/pdf/TACSEC-2013.pdf|
 |How to Troubleshoot Your MS / Cisco Catalyst Switch Through Meraki Dashboard - LABMER-2001 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2024/pdf/LABMER-2001.pdf|
 |How to Use Multicloud Defense APIs with Postman - DEVNET-2184 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2024/pdf/DEVNET-2184.pdf|
-|Hypershield - AI-backed Segmentation and Exploit protection - LABSEC-1502 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2024/pdf/LABSEC-1502.pdf|
 |Identifying and troubleshooting storage and memory issues for Business Edition (BE6K/7K) appliances - TACCOL-2010 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2024/pdf/TACCOL-2010.pdf|
 |Identity Intelligence Demystified - BRKSEC-2162 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2024/pdf/BRKSEC-2162.pdf|
 |Implementing Cisco Calling Interoperability with Microsoft Teams (Direct Routing or Webex Calling Integration for Microsoft Teams) - LABCOL-2492 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2024/pdf/LABCOL-2492.pdf|
-|Integrating Cisco Collaboration with your Microsoft Environment - TECCOL-2521 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2024/pdf/TECCOL-2521.pdf|
-|Integrating Collaboration with Cisco SD-WAN, Thousand Eyes, Meraki, Spaces and Security - TECCOL-2520 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2024/pdf/TECCOL-2520.pdf|
 |Intelligent Buildings - Your Design Strategy for Future-Proofed Workspaces - CENGRN-1000 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2024/pdf/CENGRN-1000.pdf|
 |Intelligent Security for the Hybrid Cloud and Multi-cloud - BRKSEC-2581 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2024/pdf/BRKSEC-2581.pdf|
 |Introducing the Nexus Hyperfabric 6000 Series Switches - BRKDCN-1247 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2024/pdf/BRKDCN-1247.pdf|
@@ -286,12 +274,9 @@
 |NetDevOps—Network Automation (Build, Test, Stage, and Apply using Cisco CML, pyATS, Ansible, and GitLab CI/CD) - LTRENS-2687 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2024/pdf/LTRENS-2687.pdf|
 |Network Automation Simplified: Harnessing the Power of Terraform and Ansible with Meraki - DEVNET-1293 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2024/pdf/DEVNET-1293.pdf|
 |Network Best Practices for AI/ML Data Center - BRKDCN-2921 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2024/pdf/BRKDCN-2921.pdf|
-|Network Testing with pyATS - Level II: Using Easypy and Python for More Control - DEVWKS-2539 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2024/pdf/DEVWKS-2539.pdf|
-|Network Testing with pyATS - Level III: Advanced Network Testing Using Sources of Truth - DEVWKS-3540 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2024/pdf/DEVWKS-3540.pdf|
 |Network Testing with pyATS - Level I: No-Code Network State Testing - DEVWKS-1538 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2024/pdf/DEVWKS-1538.pdf|
 |Never Trust, Always Verify"with Zero-Trust - LABSEC-3383 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2024/pdf/LABSEC-3383.pdf|
 |Next-Generation Guest Experiences with the Meraki Dashboard - BRKEWN-2418 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2024/pdf/BRKEWN-2418.pdf|
-|Next Generation VXLAN Data Centre Architecture, Deployment, and Operation - TECDCN-2101 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2024/pdf/TECDCN-2101.pdf|
 |Next Gen Infrastructure with AI, Security & Observability - ITLGEN-1016 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2024/pdf/ITLGEN-1016.pdf|
 |Nexus Dashboard Insights from Zero to Hero - LTRDCN-2258 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2024/pdf/LTRDCN-2258.pdf|
 |Nexus Dashboards Insights Hands-on Lab - LABDCN-2215 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2024/pdf/LABDCN-2215.pdf|
@@ -323,7 +308,6 @@
 |Security and Identity in the Era of AI - CENSEC-1801 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2024/pdf/CENSEC-1801.pdf|
 |Security Automation: Developing with Cisco XDR - DEVNET-1083 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2024/pdf/DEVNET-1083.pdf|
 |See It All, Solve It Fast: ThousandEyes & Multimodal AI at Last - LTRAPP-2089 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2024/pdf/LTRAPP-2089.pdf|
-|Segment Routing Masterclass - TECSPG-1000 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2024/pdf/TECSPG-1000.pdf|
 |Self-Service Automation for Your DC Network Using Ansible, Terraform and ServiceNow. - DEVNET-1892 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2024/pdf/DEVNET-1892.pdf|
 |Simple Leaf/Spine with a Touch of ToR: Network Designs for the Modern Data Center - BRKDCN-2667 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2024/pdf/BRKDCN-2667.pdf|
 |Simplifying Edge Infrastructure with Intersight Cloud Management and Cisco Compute Hyperconverged with Nutanix - BRKCOM-2011 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2024/pdf/BRKCOM-2011.pdf|
@@ -340,7 +324,6 @@
 |Splunk It Up: Turbocharge Your Network Monitoring with Cisco Meraki & Catalyst Center! - CISCOU-1028 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2024/pdf/CISCOU-1028.pdf|
 |Splunk Platform Insights: A Guide for Network Engineers - BRKGEN-1624 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2024/pdf/BRKGEN-1624.pdf|
 |SRv6 uSID Traffic Engineering Lab - LABSPG-2787 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2024/pdf/LABSPG-2787.pdf|
-|SSE-Cisco Secure Access for Architects and Implementation Engineers - TECSEC-2710 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2024/pdf/TECSEC-2710.pdf|
 |SSE, XDR, ZTNA and SD-WAN - How NGFW continues to play a pivotal role - BRKSEC-2706 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2024/pdf/BRKSEC-2706.pdf|
 |Starlink: Advanced Networking and Security - BRKSEC-2150 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2024/pdf/BRKSEC-2150.pdf|
 |Stop identity-based attacks and Enhance User Experience through Cisco Continuous Identity Security - BRKSEC-2233 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2024/pdf/BRKSEC-2233.pdf|
@@ -348,7 +331,6 @@
 |Supercharged Support: Meet the Super-Human TAC Engineers with Gen AI - TACGEN-1000 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2024/pdf/TACGEN-1000.pdf|
 |The AI Workforce - ITLGEN-1017 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2024/pdf/ITLGEN-1017.pdf|
 |The Art of Designing ThousandEyes Alerts and Dashboards - BRKAPP-2549 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2024/pdf/BRKAPP-2549.pdf|
-|The Critical Role of Cisco Technical Security Assessments in Safeguarding Digital Assets - CXLTS-1005 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2024/pdf/CXLTS-1005.pdf|
 |The Future of IT Belongs to the Optimists - ITLGEN-1011 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2024/pdf/ITLGEN-1011.pdf|
 |The Inner Workings of Cisco Catalyst Center Lan Automation - LABENS-2195 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2024/pdf/LABENS-2195.pdf|
 |The Inner Workings of Cisco Catalyst Center Lan Automation - LTRENS-2195 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2024/pdf/LTRENS-2195.pdf|
@@ -405,7 +387,6 @@
 |When uptime matters most: Digital Resilience at Energy Queensland with Cisco ThousandEyes - ITLGEN-1021 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2024/pdf/ITLGEN-1021.pdf|
 |Why you need a network strategy and how to build one - BRKXAR-1489 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2024/pdf/BRKXAR-1489.pdf|
 |Wi-Fi 6E Adoption and Getting Ready with Wi-Fi 7 - BRKEWN-2024 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2024/pdf/BRKEWN-2024.pdf|
-|Wireless Network Design for a Wireless First World - TECEWN-2004 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2024/pdf/TECEWN-2004.pdf|
 |Women of Cisco Live Lunch - WOCL-1000 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2024/pdf/WOCL-1000.pdf|
 |Women of Cisco Live Session - WOCL-2000 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2024/pdf/WOCL-2000.pdf|
 |World of Solutions Closing BBQ - GENREC-2175 | https://www.ciscolive.com/c/dam/r/ciscolive/apjc/docs/2024/pdf/GENREC-2175.pdf|
